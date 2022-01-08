@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NumAleatorio",
+    "slug": "NumAleatorio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NumAleatorio"
+}
